@@ -38,7 +38,7 @@ Use the boost!
 
 Bugs:
 I tried my best to avoid them, but a 48 hour game is bound to have them.
-This has only been tested in windows, but java is awesome so its gotta work.
+This has only been tested in windows.
 
 Thanks to:
 LD Competition - http://www.ludumdare.com
